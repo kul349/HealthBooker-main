@@ -6,7 +6,7 @@ const schema = mongoose.Schema(
       type: mongoose.SchemaTypes.ObjectId,
       ref: "User",
       required: true,
-    },
+    },   
     doctorId: {
       type: mongoose.SchemaTypes.ObjectId,
       ref: "User",
