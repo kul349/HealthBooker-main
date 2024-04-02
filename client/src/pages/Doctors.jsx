@@ -8,7 +8,7 @@ import Loading from "../components/Loading";
 import { useDispatch, useSelector } from "react-redux";
 import { setLoading } from "../redux/reducers/rootSlice";
 import Empty from "../components/Empty";
-          
+             
 const Doctors = () => {
   const [doctors, setDoctors] = useState([]);
   const dispatch = useDispatch();
