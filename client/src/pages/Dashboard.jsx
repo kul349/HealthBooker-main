@@ -4,7 +4,7 @@ import AdminAppointments from "../components/AdminAppointments";
 import AdminDoctors from "../components/AdminDoctors";
 import Sidebar from "../components/Sidebar";
 import Users from "../components/Users";
-
+      
 const Dashboard = (props) => {
   const { type } = props;
   return (
