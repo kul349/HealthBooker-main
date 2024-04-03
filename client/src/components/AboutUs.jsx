@@ -15,13 +15,13 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+            MediConnect, a preeminent healthcare platform dedicated to
+                empowering individuals globally, stands firm in its commitment
+                to harnessing innovative technology and delivering personalized
+                care to offer accessible and comprehensive healthcare solutions.
+                At the heart of our endeavor lies a profound mission: to
+                spearhead a paradigm shift in healthcare, thereby guaranteeing
+                universal access to quality services and unwavering support for all.
             </p>
           </div>
         </div>
