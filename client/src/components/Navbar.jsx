@@ -54,9 +54,7 @@ const Navbar = () => {
             <li>
               <NavLink to={"/dashboard/users"}>Dashboard</NavLink>
             </li>
-            <li>
-            <NavLink to={"/applyfordoctor"}>Apply for doctor</NavLink>
-          </li></>
+           </>
           )}
           {token && !user.isAdmin && (
             <>
@@ -66,6 +64,9 @@ const Navbar = () => {
               <li>
                 <NavLink to={"/notifications"}>Notifications</NavLink>
               </li>
+              <li>
+            <NavLink to={"/applyfordoctor"}>Apply for doctor</NavLink>
+          </li>
               
               <li>
                 <HashLink to={"/#contact"}>Contact Us</HashLink>
