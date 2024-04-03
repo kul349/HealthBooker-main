@@ -11,9 +11,13 @@ const Hero = () => {
           Our Responsibility
         </h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-          tenetur doloremque molestias repellat minus asperiores in aperiam
-          dolor, quaerat praesentium.
+        At MediConnect, we take pride in making your health our utmost
+          responsibility. Our dedicated team is committed to providing
+          personalized care and support tailored to your individual needs. With
+          advanced technology and a compassionate approach, we strive to empower
+          you on your journey to better health and well-being. Trust us to
+          prioritize your health and ensure you receive the highest quality of
+          care every step of the way.
         </p>
       </div>
       <div className="hero-img">
